@@ -1,0 +1,61 @@
+#homepage {
+    background-image: url(https://i.pinimg.com/originals/3f/47/3f/3f473f21262dc65280d05526cc387bbf.jpg);
+    padding-top: 25%;
+    padding-bottom: 25%;
+    margin: 2px;
+    width: 100%;
+    height: 400px;
+    background-size:cover;
+    background-repeat: unset;
+    color: white;
+}
+
+ h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+
+}
+#mapid {
+    padding-top: 25%;
+    padding-bottom: 25%;
+    height: 200px;
+    width: 300px;
+}
+
+#homepage a {
+    color: ivory;
+    background-color: rgba(0, 0, 0, 0.74);
+    border: 3px;
+    
+
+}
+#aboutus{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    color: black;
+    font-size: 1.5rem;
+    font-style: italic;
+    font-family: serif;
+    align-items: center;
+}
+ #aboutus img {
+    max-width: 500px;
+    align-items: center;
+    
+}
+h2 {
+    text-align: center;
+}
+
+#aboutus p {
+    text-align: center;
+}
+#pricelist{
+    /* padding-top: 10%; */
+    padding-bottom: 10%;
+    font-size: 1.6rem;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
